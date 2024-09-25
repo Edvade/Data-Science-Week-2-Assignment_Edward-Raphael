@@ -1,0 +1,261 @@
+P,Team,GP,W,D,L,F,A,GD,Pts,Form
+1,Man City,5,4,1,0,13,5,8,13,"Won 2-0 against Chelsea
+
+
+Won 4-1 against Ipswich
+
+
+Won 3-1 against West Ham
+
+
+Won 2-1 against Brentford
+
+
+Drew 2-2 with Arsenal"
+2,Liverpool,5,4,0,1,10,1,9,12,"Won 2-0 against Ipswich
+
+
+Won 2-0 against Brentford
+
+
+Won 3-0 against Man Utd
+
+
+Lost 0-1 to Nottm Forest
+
+
+Won 3-0 against AFC Bournemouth"
+3,Aston Villa,5,4,0,1,10,7,3,12,"Won 2-1 against West Ham
+
+
+Lost 0-2 to Arsenal
+
+
+Won 2-1 against Leicester
+
+
+Won 3-2 against Everton
+
+
+Won 3-1 against Wolves"
+4,Arsenal,5,3,2,0,8,3,5,11,"Won 2-0 against Wolves
+
+
+Won 2-0 against Aston Villa
+
+
+Drew 1-1 with Brighton
+
+
+Won 1-0 against Spurs
+
+
+Drew 2-2 with Man City"
+5,Chelsea,5,3,1,1,11,5,6,10,"Lost 0-2 to Man City
+
+
+Won 6-2 against Wolves
+
+
+Drew 1-1 with C Palace
+
+
+Won 1-0 against AFC Bournemouth
+
+
+Won 3-0 against West Ham"
+6,Newcastle,5,3,1,1,7,6,1,10,"Won 1-0 against Southampton
+
+
+Drew 1-1 with AFC Bournemouth
+
+
+Won 2-1 against Spurs
+
+
+Won 2-1 against Wolves
+
+
+Lost 1-3 to Fulham"
+7,Brighton,5,2,3,0,8,4,4,9,"Won 3-0 against Everton
+
+
+Won 2-1 against Man Utd
+
+
+Drew 1-1 with Arsenal
+
+
+Drew 0-0 with Ipswich
+
+
+Drew 2-2 with Nottm Forest"
+8,Nottm Forest,5,2,3,0,6,4,2,9,"Drew 1-1 with AFC Bournemouth
+
+
+Won 1-0 against Southampton
+
+
+Drew 1-1 with Wolves
+
+
+Won 1-0 against Liverpool
+
+
+Drew 2-2 with Brighton"
+9,Fulham,5,2,2,1,7,5,2,8,"Lost 0-1 to Man Utd
+
+
+Won 2-1 against Leicester
+
+
+Drew 1-1 with Ipswich
+
+
+Drew 1-1 with West Ham
+
+
+Won 3-1 against Newcastle"
+10,Spurs,5,2,1,2,9,5,4,7,"Drew 1-1 with Leicester
+
+
+Won 4-0 against Everton
+
+
+Lost 1-2 to Newcastle
+
+
+Lost 0-1 to Arsenal
+
+
+Won 3-1 against Brentford"
+11,Man Utd,5,2,1,2,5,5,0,7,"Won 1-0 against Fulham
+
+
+Lost 1-2 to Brighton
+
+
+Lost 0-3 to Liverpool
+
+
+Won 3-0 against Southampton
+
+
+Drew 0-0 with C Palace"
+12,Brentford,5,2,0,3,7,9,-2,6,"Won 2-1 against C Palace
+
+
+Lost 0-2 to Liverpool
+
+
+Won 3-1 against Southampton
+
+
+Lost 1-2 to Man City
+
+
+Lost 1-3 to Spurs"
+13,AFC Bournemouth,5,1,2,2,5,8,-3,5,"Drew 1-1 with Nottm Forest
+
+
+Drew 1-1 with Newcastle
+
+
+Won 3-2 against Everton
+
+
+Lost 0-1 to Chelsea
+
+
+Lost 0-3 to Liverpool"
+14,West Ham,5,1,1,3,5,9,-4,4,"Lost 1-2 to Aston Villa
+
+
+Won 2-0 against C Palace
+
+
+Lost 1-3 to Man City
+
+
+Drew 1-1 with Fulham
+
+
+Lost 0-3 to Chelsea"
+15,Leicester,5,0,3,2,6,8,-2,3,"Drew 1-1 with Spurs
+
+
+Lost 1-2 to Fulham
+
+
+Lost 1-2 to Aston Villa
+
+
+Drew 2-2 with C Palace
+
+
+Drew 1-1 with Everton"
+16,C Palace,5,0,3,2,4,7,-3,3,"Lost 1-2 to Brentford
+
+
+Lost 0-2 to West Ham
+
+
+Drew 1-1 with Chelsea
+
+
+Drew 2-2 with Leicester
+
+
+Drew 0-0 with Man Utd"
+17,Ipswich,5,0,3,2,3,8,-5,3,"Lost 0-2 to Liverpool
+
+
+Lost 1-4 to Man City
+
+
+Drew 1-1 with Fulham
+
+
+Drew 0-0 with Brighton
+
+
+Drew 1-1 with Southampton"
+18,Southampton,5,0,1,4,2,9,-7,1,"Lost 0-1 to Newcastle
+
+
+Lost 0-1 to Nottm Forest
+
+
+Lost 1-3 to Brentford
+
+
+Lost 0-3 to Man Utd
+
+
+Drew 1-1 with Ipswich"
+19,Everton,5,0,1,4,5,14,-9,1,"Lost 0-3 to Brighton
+
+
+Lost 0-4 to Spurs
+
+
+Lost 2-3 to AFC Bournemouth
+
+
+Lost 2-3 to Aston Villa
+
+
+Drew 1-1 with Leicester"
+20,Wolves,5,0,1,4,5,14,-9,1,"Lost 0-2 to Arsenal
+
+
+Lost 2-6 to Chelsea
+
+
+Drew 1-1 with Nottm Forest
+
+
+Lost 1-2 to Newcastle
+
+
+Lost 1-3 to Aston Villa"
